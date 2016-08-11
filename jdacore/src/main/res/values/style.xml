@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--标题背景色-->
+    <style name="titleBackground">
+        <item name="android:background">@color/cl_main</item>
+    </style>
+    <!--标题主题-->
+    <style name="j_title_theme" parent="android:Theme">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowTitleSize">@dimen/size_jv_title</item>  <!--高度-->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleBackgroundStyle">@style/titleBackground</item>  <!--标题背景色-->
+    </style>
+</resources>

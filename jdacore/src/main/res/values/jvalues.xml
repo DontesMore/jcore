@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cl_main">#65c4aa</color>
+    <color name="cl_main_text">#65c4aa</color>
+
+
+
+    <!-- ***************************colors****************************** -->
+
+    <color name="cl_transparent">#70000000</color><!-- 半透明颜色 -->
+    <color name="cl_txt_black">#333333</color><!-- 文本主黑色，一般用于itemview的标题 -->
+    <color name="cl_txt_gray">#666666</color><!-- 文本主灰色，一般用于itemview的描述部分 -->
+    <color name="cl_txt_green">#00b42d</color><!-- 文本主绿色，一般用于itemview的描述部分 -->
+    <color name="cl_txt_gray_light">#999999</color><!-- 文本主浅灰色，一般用于itemview的时间等-->
+    <color name="cl_txt_white">#ffffff</color><!-- 文本主白色 -->
+    <color name="cl_txt_blue">#65c4aa</color><!-- 文本主蓝色 -->
+    <color name="cl_txt_red">#ff0000</color><!-- 文本主红色，一般用于警告信息-->
+    <color name="cl_bg_gray">#f3f3f3</color><!-- 背景主灰色，一般用于页面背景-->
+    <color name="cl_divider_gray">#e5e5e5</color><!-- 分割线灰色，一般用于listview分割-->
+    <color name="cl_txt_orange">#f37857</color><!-- 背景主橘色，一般用于页面背景-->
+
+    <!-- ***************************dimens****************************** -->
+
+    <dimen name="size_jv_title">50dp</dimen><!-- 顶部标题高度 -->
+
+    <dimen name="size_tx_xx">18sp</dimen><!-- 最大号字体，一般用于顶部标题 -->
+    <dimen name="size_tx_x">16sp</dimen><!-- 大号字体，一般用于itemview的标题 -->
+    <dimen name="size_tx_m">14sp</dimen><!-- 中号字体， -->
+    <dimen name="size_tx_l_m">13sp</dimen><!-- 中小号字 -->
+    <dimen name="size_tx_l">12sp</dimen><!-- 小号字体，一般用于itemview的描述 -->
+    <dimen name="size_tx_s">10sp</dimen><!-- 最小号字体 -->
+
+    <dimen name="size_margin_common_s">6dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="size_margin_common_l">8dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="size_margin_common_m">10dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="size_margin_common_x">20dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="size_margin_common_x_xx">30dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="size_margin_common_xx">40dp</dimen><!-- 公共layout之间margin -->
+
+    <dimen name="size_view_common_x">50dp</dimen><!-- 公共view高度 -->
+    <dimen name="size_common_m">30dp</dimen><!-- 公共view高度 -->
+
+    <dimen name="ic_size_m">50dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="ic_size_header">50dp</dimen><!-- 公共layout之间margin -->
+    <dimen name="ic_size_header_parent">70dp</dimen><!-- 公共layout之间margin -->
+</resources>

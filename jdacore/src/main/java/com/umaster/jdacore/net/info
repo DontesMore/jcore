@@ -1,0 +1,3 @@
+网络请求封装
+目前采用Retrofit管理网络请求，原机制是如果有OKHTttp，优先使用OKHttp，否则2.3以后使用HttpUrlConnection，2.3以前使用HttpClient
+这里直接引入OKhttp作为请求框架

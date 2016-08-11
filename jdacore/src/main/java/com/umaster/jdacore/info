@@ -1,0 +1,11 @@
+第一版
+当前包存放核心公共类
+以lib形式作为app的基础类使用
+
+第一版框架简介
+1、整体框架采用mvp模式；
+2、采用Retrofit、RxJava、OKhttp、Gson框架；
+3、注入机制ButterKnife；
+4、图像用universalimageloader；
+
+
